@@ -1,0 +1,133 @@
+{
+  "type": "Map",
+  "maps": [
+    {
+      "text": "JPN",
+      "size": 1.0,
+      "country": "Japan",
+      "city": "Tokyo",
+      "lat": "35.6932300499845",
+      "lng": "139.74840614478882"
+    },
+    {
+      "text": "IND",
+      "size": 1.0,
+      "country": "India",
+      "city": "Chennai",
+      "lat": "13.089869",
+      "lng": "80.245901"
+    },
+    {
+      "text": "USA",
+      "size": 1.0,
+      "country": "United States",
+      "city": "San Francisco",
+      "lat": "37.33475361738127",
+      "lng": "-122.00893236465397"
+    },
+    {
+      "text": "AUS",
+      "size": 1.0,
+      "country": "Australia",
+      "city": "Canberra",
+      "lat": "-35.28207537045923",
+      "lng": "149.12866290822234"
+    },
+    {
+      "text": "ZAF",
+      "size": 1.0,
+      "country": "South Africa",
+      "city": "Cape Town",
+      "lat": "-33.92299534393096",
+      "lng": "18.4189908126957"
+    },
+    {
+      "text": "ARG",
+      "size": 1.0,
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "lat": "-34.60367331464489",
+      "lng": "-58.37235866459567"
+    },
+    {
+      "text": "CHN",
+      "size": 1.0,
+      "country": "China",
+      "city": "Shanghai",
+      "lat": "31.230416",
+      "lng": "121.473701"
+    },
+    {
+      "text": "IND",
+      "size": 1.0,
+      "country": "India",
+      "city": "Mumbai",
+      "lat": "19.076090",
+      "lng": "72.877426"
+    },
+    {
+      "text": "USA",
+      "size": 1.0,
+      "country": "United States",
+      "city": "New York",
+      "lat": "40.712776",
+      "lng": "-74.005974"
+    },
+    {
+      "text": "IDN",
+      "size": 1.0,
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "lat": "-6.208763",
+      "lng": "106.845599"
+    },
+    {
+      "text": "PAK",
+      "size": 1.0,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "lat": "24.860734",
+      "lng": "67.001136"
+    },
+    {
+      "text": "BRA",
+      "size": 1.0,
+      "country": "Brazil",
+      "city": "São Paulo",
+      "lat": "-23.550520",
+      "lng": "-46.633308"
+    },
+    {
+      "text": "NGA",
+      "size": 1.0,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "lat": "6.524379",
+      "lng": "3.379206"
+    },
+    {
+      "text": "BGD",
+      "size": 1.0,
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "lat": "23.810332",
+      "lng": "90.412518"
+    },
+    {
+      "text": "RUS",
+      "size": 1.0,
+      "country": "Russia",
+      "city": "Moscow",
+      "lat": "55.751244",
+      "lng": "37.618423"
+    },
+    {
+      "text": "MEX",
+      "size": 1.0,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "lat": "19.432608",
+      "lng": "-99.133209"
+    }
+  ]
+}
