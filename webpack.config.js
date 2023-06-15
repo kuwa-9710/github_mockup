@@ -11,6 +11,7 @@ module.exports = {
   resolve: {
     extensions: [".js", ".glsl", ".vs", ".fs"],
   },
+  performance: { hints: false },
   module: {
     rules: [
       // HTML
